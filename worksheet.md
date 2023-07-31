@@ -12,11 +12,24 @@ Take a look at the two repositories:
 And answer the following questions about them:
 
   * These repositories are at two different websites - github and bitbucket - what are these sites?  What service do they provide? Which is better?
+  i) Both provide source code management services for projects, BitBucket is more focused on private repositories. Github is more focused on public repositories.
+
   * Who made the last commit to repository A?
+  ii)Matthew Roberts
+
   * Who made the first commit to repository A?
+  iii)Jon Mountjoy
+
   * Who made the first and last commits to repository B?
+  iv)Dave Pearce
+
   * Are either/both of these projects active at the moment? 🤔 If not, what do you think happened?
+  v) No as both projects were last updated in 2022. The project is either finished
+
   * 🤔 Which file in each project has had the most activity?
+  vi)
+    A)src
+    B)Data
 
 # Task 2
 
