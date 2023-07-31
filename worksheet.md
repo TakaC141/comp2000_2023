@@ -27,9 +27,6 @@ And answer the following questions about them:
   v) No as both projects were last updated in 2022. The project is either finished
 
   * 🤔 Which file in each project has had the most activity?
-  vi)
-    A)src
-    B)Data
 
 # Task 2
 
